@@ -20,6 +20,6 @@ The problem is to build a Analytical tool just like Tableau, Power BI that are q
 
 1. Checkout the code
  ```
- > <i> Streamlit run Road Analytics.py </i>
+ $ Streamlit run Road Analytics.py
 ``` 
 2. Browse the [url](http://localhost:8501)
