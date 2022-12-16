@@ -18,8 +18,8 @@ The problem is to build a Analytical tool just like Tableau, Power BI that are q
 
 <hr>
  <h3> For using the project clone the repository and type the following commands in the termial: </h3>
- <ul>
-  <li> $ streamlit run Road Analytics Tool.py</li>
-  </ul>
-  
-  <hr>
+ 1. Checkout the code
+ ```
+ streamlit run Road Analytics Tool.py
+``` 
+<hr>
