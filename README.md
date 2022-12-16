@@ -16,10 +16,10 @@ The problem is to build a Analytical tool just like Tableau, Power BI that are q
 <li><p><b>Tensorflow</b></p></li>
 </ul>
 
-<hr>
- <h3> For using the project clone the repository and type the following commands in the termial: </h3>
- 1. Checkout the code
+## Running the App
+
+1. Checkout the code
  ```
- streamlit run Road Analytics Tool.py
+ Streamlit run Road Analytics.py
 ``` 
-<hr>
+2. Browse the [url](http://localhost:8501)
