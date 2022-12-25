@@ -8,7 +8,7 @@ from streamlit_pandas_profiling import st_profile_report
 import plotly.express as px
 from sklearn.linear_model import LogisticRegression
 import joblib
-from tkinter import HORIZONTAL
+# from tkinter import HORIZONTAL
 
 img = Image.open('SIH_2018_logo.png')
 
